@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a02421147/ECE2700/Lab7/project_1/project_1.srcs/sources_1/new/dec16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec16
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a02421147/ECE2700/Lab7/project_1/project_1.srcs/sources_1/new/dec8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec8
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a02421147/ECE2700/Lab7/project_1/project_1.srcs/sim_1/new/dec16TestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec16TestBench

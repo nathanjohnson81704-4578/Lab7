@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1793238432">
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="muxdecTop_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="muxdecTop_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-BGN" Name="muxdecTop.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="muxdecTop.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="muxdecTop.ltx"/>
+  <File Type="RBD_FILE" Name="muxdecTop.rbd"/>
+  <File Type="NPI_FILE" Name="muxdecTop.npi"/>
+  <File Type="RNPI_FILE" Name="muxdecTop.rnpi"/>
+  <File Type="CFI_FILE" Name="muxdecTop.cfi"/>
+  <File Type="RCFI_FILE" Name="muxdecTop.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="muxdecTop_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="muxdecTop_boot.pdi"/>
+  <File Type="RDI-RDI" Name="muxdecTop.vdi"/>
+  <File Type="PDI-FILE" Name="muxdecTop.pdi"/>
+  <File Type="BITSTR-MMI" Name="muxdecTop.mmi"/>
+  <File Type="BITSTR-BMM" Name="muxdecTop_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="muxdecTop.nky"/>
+  <File Type="BITSTR-RBT" Name="muxdecTop.rbt"/>
+  <File Type="BITSTR-MSK" Name="muxdecTop.msk"/>
+  <File Type="BG-BIN" Name="muxdecTop.bin"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="BG-BIT" Name="muxdecTop.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="muxdecTop_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="muxdecTop_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="muxdecTop_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="muxdecTop_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="muxdecTop_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="muxdecTop_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="muxdecTop_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="muxdecTop_postroute_physopt.dcp"/>
+  <File Type="BG-DRC" Name="muxdecTop.drc"/>
+  <File Type="ROUTE-RQS-PB" Name="muxdecTop_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="muxdecTop_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="muxdecTop_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="muxdecTop_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="muxdecTop_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="muxdecTop_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="muxdecTop_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="muxdecTop_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="muxdecTop_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="muxdecTop_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="muxdecTop_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="muxdecTop_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="muxdecTop_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="muxdecTop_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="muxdecTop_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="muxdecTop_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="muxdecTop_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="muxdecTop_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="muxdecTop_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="muxdecTop_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="muxdecTop_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="muxdecTop_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="muxdecTop_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="muxdecTop_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="muxdecTop_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="muxdecTop_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="muxdecTop_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="muxdecTop_postplace_pwropt.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="muxdecTop_rqa_placed.pb"/>
+  <File Type="PLACE-TIMING" Name="muxdecTop_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="muxdecTop_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="muxdecTop_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="muxdecTop_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="muxdecTop_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="muxdecTop_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="muxdecTop_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="muxdecTop_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="muxdecTop_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="muxdecTop_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="muxdecTop_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="muxdecTop_pwropt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="muxdecTop_rqa_opted.pb"/>
+  <File Type="OPT-HWDEF" Name="muxdecTop.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="muxdecTop_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="muxdecTop_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="muxdecTop_opt.dcp"/>
+  <File Type="OPT-TIMING" Name="muxdecTop_timing_summary_opted.rpt"/>
+  <File Type="REPORTS-TCL" Name="muxdecTop_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="muxdecTop_timing_summary_init.rpt"/>
+  <File Type="PA-TCL" Name="muxdecTop.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/dec8.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/decmuxcombo.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux2.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sim_1/new/muxdecTop.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux4.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/dec16.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="muxdecTop"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../../Downloads/Basys3Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/mux4.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
